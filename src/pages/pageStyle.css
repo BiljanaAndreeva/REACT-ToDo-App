@@ -1,0 +1,28 @@
+.AppBar{
+    height: 60px;
+}
+
+.nav-link{
+    font-size: xx-large;
+    padding-left: 20px;
+    color: rgb(180, 180, 180);
+    text-decoration: none;
+}
+
+.nav-link-active{
+    color:white;
+}
+
+.page-content-container{
+    background-color:#94828b;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right:40px ;
+
+}
+
+.dragableContainer{
+    list-style: none;
+    list-style-type: none;
+    width: 100%;
+}
